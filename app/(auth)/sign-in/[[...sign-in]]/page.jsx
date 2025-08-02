@@ -7,4 +7,5 @@ const Page = () => {
   )
 }
 
-export default Page;
+export default Page; 
+// this inside the app directory is used to render the sign-in page and will be ignored because of the catch-all route in the path
